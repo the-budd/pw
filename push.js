@@ -11,4 +11,4 @@ push.setVapidDetails('mailto:test@gmail.com',vapidKeys.publicKey,vapidKeys.priva
 
 let sub ={};
 
-push.sendNotification(Sub, 'test-message')
+push.sendNotification(sub, 'test-message')
